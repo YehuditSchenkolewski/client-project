@@ -1,0 +1,18 @@
+Form {
+    margin: 10vw 0vw 0vw 30vw;
+}
+  
+.form-group {
+    position: relative;
+    width: 18vw;
+}
+  
+.submit {
+    margin-top: 15px;
+}
+  
+.hide-show-btn {
+    position: absolute;
+    right: 15px;
+    top: 28px;
+}

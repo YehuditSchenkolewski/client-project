@@ -1,0 +1,10 @@
+ul {
+  justify-content: space-between;
+  -webkit-box-pack: justify; 
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+li {
+  padding: 1vw 1vw 0vw 1vw;
+}
